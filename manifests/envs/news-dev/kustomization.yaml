@@ -49,11 +49,11 @@ images:
   newName: public.ecr.aws/t8u1z3c8/rs/rank-plugin
   newTag: latest
 - name: rs/recall
-  newName: 522244679887.dkr.ecr.ap-southeast-1.amazonaws.com/rs/recall
-  newTag: 7dbbfb61ec7d529f496c7040bb82ffe15272a86b
+  newName: 549828897912.dkr.ecr.us-east-1.amazonaws.com/rs/recall
+  newTag: ac72240421b6087b487d54ed4e6d9ffb24375d43
 - name: rs/recall-plugin
-  newName: 522244679887.dkr.ecr.ap-southeast-1.amazonaws.com/rs/recall-plugin
-  newTag: news-7dbbfb61ec7d529f496c7040bb82ffe15272a86b
+  newName: 549828897912.dkr.ecr.us-east-1.amazonaws.com/rs/recall-plugin
+  newTag: news-ac72240421b6087b487d54ed4e6d9ffb24375d43
 - name: rs/retrieve
   newName: public.ecr.aws/t8u1z3c8/rs/retrieve
   newTag: latest
